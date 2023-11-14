@@ -10,6 +10,10 @@ public class App {
 
     public void uselessFunctionNum3() {
       return;
+    }  
+
+    public void uselessFunctionNum4() {
+      return;
     } 
 
     public void shameOnYou() {
