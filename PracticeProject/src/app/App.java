@@ -8,7 +8,7 @@ public class App {
       app.shameOnYou();
     }
 
-    public void uselessFunctionNum8() { 
+    public void usefulFunctionNum8() { 
       return;
     }  
 
