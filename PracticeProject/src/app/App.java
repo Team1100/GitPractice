@@ -16,6 +16,10 @@ public class App {
         System.out.println("Shame x3");
     }
 
+    public double add(int x, int y) {
+      return x + y;
+    }
+
     public void uselessFunction1(int what) {
       return;
     }
