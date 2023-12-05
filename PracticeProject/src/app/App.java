@@ -29,5 +29,22 @@ public class App {
       for (int i = 0; i < 10; i++) {
         System.out.println("Help " + i + " message.\n");
       }
+	  
+	
     }
+	
+	
+	public void subtract() {
+		Scanner obj = new Scanner(System.in);
+		System.out.println("number 1");
+		float num1 = obj.nextFloat(); 
+		
+		Scanner obj2 = new Scanner(System.in);
+		System.out.println("number 2");
+		float num2 = obj.nextFloat(); 
+		
+		float dif = num1 - num2
+		System.out.println(dif)
+  
+	}
 }
