@@ -17,7 +17,7 @@ public class App {
       return;
     }
 
-    public void uselessFunctionNum4() {
+    public void funFunctionNum4() {
       return;
     } 
 
@@ -31,6 +31,11 @@ public class App {
 
     public void uselessFunction1(int what) {
       return;
+    } 
+
+    public void multiplication() { 
+      int i = 2*3;
+      System.out.println(i);
     }
 
     public void help() {
