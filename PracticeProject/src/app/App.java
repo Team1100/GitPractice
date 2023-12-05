@@ -10,7 +10,11 @@ public class App {
 
     public void usefulFunctionNum8() { 
       return;
-    }  
+    }
+
+    public void uselessFunctionNum9() {
+      return;
+    }
 
     public void uselessFunctionNum4() {
       return;
