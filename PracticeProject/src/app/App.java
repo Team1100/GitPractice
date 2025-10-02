@@ -1,5 +1,7 @@
 package app;
 
+import java.util.Scanner;
+
 public class App {
     public static void main(String[] args) throws Exception {
       App app = new App();
@@ -29,9 +31,9 @@ public class App {
       return x + y;
     }
 
-    public void uselessFunction1(int what) {
-      return;
-    } 
+    public void brianFunction() {
+      System.out.println("Hi, my name is brian");
+    }
 
     public void multiplication() { 
       int i = 2*3;
