@@ -1,5 +1,7 @@
 package app;
 
+import java.util.Scanner;
+
 public class App {
     public static void main(String[] args) throws Exception {
       App app = new App();
@@ -56,9 +58,10 @@ public class App {
 	    System.out.println("number 2");
 	    float num2 = obj.nextFloat(); 
 
-	    float dif = num1 - num2
-		    System.out.println(dif)
+	    float dif = num1 - num2;
+      System.out.println(dif);
 
+      System.out.println(num1);
     }
 
     public int random(int maxNum) {
